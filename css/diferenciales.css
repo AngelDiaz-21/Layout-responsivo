@@ -6,7 +6,7 @@
 .diferenciales__lista{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 2.5rem;
 }
 
@@ -40,4 +40,13 @@
 
 .diferenciales__item-quimica{
     background-image: url('../img/icono-quimica.png');
+}
+
+@media screen and (min-width: 1024px) {
+    .diferenciales {
+        background-color: var(--cinza-claro);
+    }
+    .diferenciales__lista {
+        justify-content: space-around;
+    }
 }
