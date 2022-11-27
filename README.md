@@ -2,7 +2,9 @@
 
 Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
 
-**Link para ver el diseño en figma**: [Ver página](https://www.figma.com/file/Cv9OIfwW20qbM2ywcSXOnK/Apeperia-Mobile-First-(inicial)?node-id=15%3A198)
+**Link para ver el diseño en figma**: [Ver diseño](https://www.figma.com/file/Cv9OIfwW20qbM2ywcSXOnK/Apeperia-Mobile-First-(inicial)?node-id=15%3A198)
+
+**Link para ver la página**: [Ver página](https://angeldiaz-21.github.io/Layout-responsivo/)
 
 ## ¿Que se aprendió a lo largo del curso?
 * Analizar y separar el layout recibido.
